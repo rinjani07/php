@@ -1,4 +1,4 @@
-line-bot-sdk-php
+line-bot-php
 ==
 
 [![Build Status](https://travis-ci.org/line/line-bot-sdk-php.svg?branch=master)](https://travis-ci.org/line/line-bot-sdk-php)
