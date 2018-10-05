@@ -1,4 +1,4 @@
-line-bot-sdk-tiny
+line-bot
 ==
 
 A very simple SDK (subset) for the LINE Messaging API for PHP.
